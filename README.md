@@ -1,17 +1,107 @@
-<h1 align="center">Hi 👋, I'm Saifur Rahman (Hasan)</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
+# Hi there, I'm Saifur Rahman Hasan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifur-rahman-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="saifur-rahman-hasan" /> </p>
+### Co-Founder & CTO at Typetech IT | Full-Stack Architect | Tech Leader from Bangladesh 🇧🇩
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifur-rahman-hasan" alt="saifur-rahman-hasan" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 About Me
+
+I'm a technology leader and product builder based in Bangladesh, passionate about creating scalable solutions that make a real impact. My journey from **Senior Software Engineer** to **Co-Founder & CTO** has been driven by a deep love for clean architecture, innovative product development, and empowering engineering teams to do their best work.
+
+I believe in:
+- 🎯 Building products that solve real problems
+- 📐 Writing clean, maintainable, and scalable code
+- 🌱 Continuous learning and knowledge sharing
+- 👥 Mentoring developers and fostering strong engineering cultures
+- 🔧 Leading with technical vision while staying hands-on with code
+
+---
+
+## 💼 Current Role & Responsibilities
+
+**Co-Founder & CTO** at [Typetech IT](https://typetechit.com) _(Current)_
+
+As CTO, I wear multiple hats:
+- 🏗️ **Technical Vision**: Defining our technology strategy and architectural decisions
+- 👨‍💻 **Hands-on Development**: Still deeply involved in coding, code reviews, and system design
+- 🎯 **Product Leadership**: Translating business requirements into scalable technical solutions
+- 🌟 **Team Building**: Growing and mentoring our engineering team
+- 🔐 **Quality & Security**: Ensuring our products meet the highest standards of performance and security
+- 🤝 **Client Relations**: Working directly with clients to understand their needs and deliver exceptional solutions
+
+**Previous Experience**: Senior Software Engineer with extensive experience in full-stack web development, building enterprise applications, and leading development teams.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+**Frontend**
+- ⚛️ React.js, Next.js
+- 🎨 Tailwind CSS, CSS3, HTML5
+- 📊 Redux, Context API
+- 🔄 Vue.js, Vuetify
+
+**Backend**
+- 🟢 Node.js, Express.js
+- 🐘 PHP, Laravel, Symfony
+- 🐍 Python
+- 🔥 GraphQL, REST APIs
+
+**Database & ORM**
+- 🗄️ PostgreSQL, MySQL
+- 🍃 MongoDB
+- ⚡ Redis
+- 🔷 Prisma
+
+**Cloud & DevOps**
+- ☁️ AWS (EC2, S3, Lambda, RDS)
+- 🐳 Docker, Docker Compose
+- 🔧 Nginx, Linux
+- 🚀 CI/CD Pipelines
+- 🔥 Firebase, Heroku
+
+**Tools & Practices**
+- 📝 Git, GitHub
+- 🧪 Test-Driven Development
+- 🏗️ Microservices Architecture
+- 📐 Clean Architecture Principles
+- 🔄 Agile/Scrum Methodologies
+
+---
+
+## 🔭 What I'm Working On
+
+- Building innovative SaaS products at Typetech IT
+- Architecting scalable, cloud-native applications
+- Mentoring junior developers and fostering technical excellence
+- Contributing to open-source projects
+- Exploring emerging technologies and best practices in software architecture
+- Writing about technology, leadership, and product development
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saifur-rahman-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="saifur-rahman-hasan" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg)" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifur-rahman-hasan&show_icons=true&locale=en&layout=compact&theme=default" alt="saifur-rahman-hasan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifur-rahman-hasan&show_icons=true&locale=en&layout=compact" alt="saifur-rahman-hasan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifur-rahman-hasan&show_icons=true&locale=en&theme=default" alt="saifur-rahman-hasan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifur-rahman-hasan&show_icons=true&locale=en" alt="saifur-rahman-hasan" /></p>
+---
+
+## 🤝 Let's Connect
+
+I'm always open to:
+- 💬 Discussing technology, architecture, and product development
+- 🤝 Collaborating on interesting projects
+- 📧 Consulting opportunities
+- 🎓 Mentoring aspiring developers
+
+Feel free to reach out through GitHub or connect with me on other platforms!
+
+---
+
+*"Great software is built by great teams. Great teams are built through trust, collaboration, and a shared vision."*
