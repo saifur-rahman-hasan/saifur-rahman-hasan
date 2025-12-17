@@ -1,4 +1,4 @@
-# Hi there, I'm Saifur Rahman Hasan 👋
+# Hi there, I'm Saifur Rahman 👋
 
 ### Co-Founder & CTO at Typetech IT | Full-Stack Architect | Tech Leader from Bangladesh 🇧🇩
 
